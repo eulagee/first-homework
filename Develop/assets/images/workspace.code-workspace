@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../projects/gt-virt-fsf-pt-04-2021-u-c/01-HTML-Git-CSS"
+		},
+		{
+			"path": "../../../../../projects/gt-virt-fsf-pt-04-2021-u-c/02-Advanced-CSS"
+		}
+	],
+	"settings": {
+		"liveshare.allowGuestDebugControl": true,
+		"liveServer.settings.multiRootWorkspaceName": "first-homework"
+	}
+}
